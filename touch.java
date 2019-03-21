@@ -1,4 +1,5 @@
-Public Class AB
+Public Class ABdd A 
+add a
 {
 
 }
